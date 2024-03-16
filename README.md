@@ -8,3 +8,5 @@ python version:3.12.0
 Numpy Version:1.26.1
 
 Scikit-learn version:1.3.1
+
+If you like the content, don't forget to give a star
